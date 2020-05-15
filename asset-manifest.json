@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dubeyvivek48.github.io/assignment/static/css/main.b6793e35.chunk.css",
+    "main.js": "/dubeyvivek48.github.io/assignment/static/js/main.d59e4780.chunk.js",
+    "main.js.map": "/dubeyvivek48.github.io/assignment/static/js/main.d59e4780.chunk.js.map",
+    "runtime-main.js": "/dubeyvivek48.github.io/assignment/static/js/runtime-main.c20e9787.js",
+    "runtime-main.js.map": "/dubeyvivek48.github.io/assignment/static/js/runtime-main.c20e9787.js.map",
+    "static/js/2.e03eea73.chunk.js": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js",
+    "static/js/2.e03eea73.chunk.js.map": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js.map",
+    "index.html": "/dubeyvivek48.github.io/assignment/index.html",
+    "precache-manifest.020dbfde384342b49cc22c0e548eb37e.js": "/dubeyvivek48.github.io/assignment/precache-manifest.020dbfde384342b49cc22c0e548eb37e.js",
+    "service-worker.js": "/dubeyvivek48.github.io/assignment/service-worker.js",
+    "static/css/main.b6793e35.chunk.css.map": "/dubeyvivek48.github.io/assignment/static/css/main.b6793e35.chunk.css.map",
+    "static/js/2.e03eea73.chunk.js.LICENSE.txt": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20e9787.js",
+    "static/js/2.e03eea73.chunk.js",
+    "static/css/main.b6793e35.chunk.css",
+    "static/js/main.d59e4780.chunk.js"
+  ]
+}
