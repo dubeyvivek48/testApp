@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dubeyvivek48.github.io/assignment/static/css/main.b6793e35.chunk.css",
-    "main.js": "/dubeyvivek48.github.io/assignment/static/js/main.d59e4780.chunk.js",
-    "main.js.map": "/dubeyvivek48.github.io/assignment/static/js/main.d59e4780.chunk.js.map",
-    "runtime-main.js": "/dubeyvivek48.github.io/assignment/static/js/runtime-main.c20e9787.js",
-    "runtime-main.js.map": "/dubeyvivek48.github.io/assignment/static/js/runtime-main.c20e9787.js.map",
-    "static/js/2.e03eea73.chunk.js": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js",
-    "static/js/2.e03eea73.chunk.js.map": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js.map",
-    "index.html": "/dubeyvivek48.github.io/assignment/index.html",
-    "precache-manifest.020dbfde384342b49cc22c0e548eb37e.js": "/dubeyvivek48.github.io/assignment/precache-manifest.020dbfde384342b49cc22c0e548eb37e.js",
-    "service-worker.js": "/dubeyvivek48.github.io/assignment/service-worker.js",
-    "static/css/main.b6793e35.chunk.css.map": "/dubeyvivek48.github.io/assignment/static/css/main.b6793e35.chunk.css.map",
-    "static/js/2.e03eea73.chunk.js.LICENSE.txt": "/dubeyvivek48.github.io/assignment/static/js/2.e03eea73.chunk.js.LICENSE.txt"
+    "main.css": "/assignment/static/css/main.b6793e35.chunk.css",
+    "main.js": "/assignment/static/js/main.6d96089c.chunk.js",
+    "main.js.map": "/assignment/static/js/main.6d96089c.chunk.js.map",
+    "runtime-main.js": "/assignment/static/js/runtime-main.bb53ba0a.js",
+    "runtime-main.js.map": "/assignment/static/js/runtime-main.bb53ba0a.js.map",
+    "static/js/2.e03eea73.chunk.js": "/assignment/static/js/2.e03eea73.chunk.js",
+    "static/js/2.e03eea73.chunk.js.map": "/assignment/static/js/2.e03eea73.chunk.js.map",
+    "index.html": "/assignment/index.html",
+    "precache-manifest.38175b8af7749e13fa2543df9bc42ece.js": "/assignment/precache-manifest.38175b8af7749e13fa2543df9bc42ece.js",
+    "service-worker.js": "/assignment/service-worker.js",
+    "static/css/main.b6793e35.chunk.css.map": "/assignment/static/css/main.b6793e35.chunk.css.map",
+    "static/js/2.e03eea73.chunk.js.LICENSE.txt": "/assignment/static/js/2.e03eea73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c20e9787.js",
+    "static/js/runtime-main.bb53ba0a.js",
     "static/js/2.e03eea73.chunk.js",
     "static/css/main.b6793e35.chunk.css",
-    "static/js/main.d59e4780.chunk.js"
+    "static/js/main.6d96089c.chunk.js"
   ]
 }
