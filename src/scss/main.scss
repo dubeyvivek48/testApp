@@ -1,0 +1,119 @@
+//@import "~video-react/styles/scss/video-react"; // or import scss
+@import "navbar";
+
+
+// variable
+
+$primary-text-color:#606060;
+
+
+.container {
+  width: 85%;
+  margin:0 auto;
+}
+.landing{
+  margin-top:20px;
+}
+
+    .carousel-container {
+      margin: 100px 0;
+      position: relative;
+        .carousel-btn {
+          position: absolute;
+          width: 110%;
+          top: 50%;
+          transform: translateY(-50%);
+          margin-left: -5%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          .previous , .next {
+            cursor:pointer;
+            font-size: 42px;
+            height: 50px;
+            width: 50px;
+            border: 2px solid $primary-text-color;
+            border-radius: 50%;
+            position: relative;
+            &.disable{
+              display: none;
+            }
+            span {
+              position: absolute;
+              top:50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              margin-top: -4px;
+            }
+          }
+          .next {
+            position: absolute;
+            right: 0;
+            transform: rotate(180deg);
+          }
+        }
+        .carousel{
+          display: flex;
+          position: relative;
+          .class{
+            &.active{
+              position: absolute;
+              top: 50%;
+              width: 38%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              .video-container {
+                width: 100% !important;
+                height: 300px !important;
+              }
+            }
+            .video-container{
+              width: 98% !important;
+            }
+          }
+        }
+    }
+
+    .classes-container{
+      width: 95%;
+      margin:15px auto;
+      border-radius: 7px;
+      display: flex;
+      border: 1px solid $primary-text-color;
+      padding: 7px 48px;
+      .class {
+        padding: 5px 25px;
+        margin-right: 10px;
+        line-height: 24px;
+        &.active {
+          position: relative;
+          &:before {
+            content: '';
+            display: block;
+            position: absolute;
+            bottom: 0;
+            border-radius: 2px;
+            left: 0;
+            height: 4px;
+            width: 100%;
+            background: $primary-text-color;
+          }
+        }
+      }
+    }
+
+  * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:$primary-text-color;
+  font-family: 'Lato', sans-serif;
+}
+
+  .primary-text {
+    font-size:  42px;
+    line-height: 62px;
+    display: block;
+    font-weight: 400;
+  }
+
